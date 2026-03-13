@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I am Karan Manjare.<br>Full-stack developer building web applications with Spring Boot and React.<br>Focused on backend architecture, APIs, and scalable systems.<br>Also a game developer experimenting with gameplay mechanics and interactive systems.<br>Always building, learning, and improving.
+<h1 align="center">Karan Manjare</h1>
+
+<p align="center">
+Full-stack developer building web applications with <b>Spring Boot</b> and <b>React</b>.<br>
+Focused on backend architecture, APIs, and scalable systems.<br><br>
+
+Also a game developer experimenting with gameplay mechanics and interactive systems.<br>
+Always building, learning, and improving.
+</p>
 
 
 ## 🌐 Socials:
